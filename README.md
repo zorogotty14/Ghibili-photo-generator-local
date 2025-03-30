@@ -14,6 +14,7 @@ This project uses **Stable Diffusion** and a **Studio Ghibli-style LoRA** to tra
 
 ---
 ## 📁 Folder Structure
+```bash 
 ghibli-style-image-generator/
 │ 
 ├── ghibli_generator.py # Main app script 
@@ -21,7 +22,7 @@ ghibli-style-image-generator/
 ├── README.md # Project documentation 
 ├── generated_images/ # Folder for saved outputs 
 └── lora/ghibli_lora.safetensors
-
+```
 ---
 
 ## ⚙️ Setup Instructions
